@@ -19,6 +19,9 @@ Simply install and activate this plugin, and your image uploads will be free of 
 ## Installation
 Install and activate the plugin.
 
+## Plugin Development
+This WordPress plugin has been developed by[WebDeskArt](https://www.webdeskart.com)
+
 ## Frequently Asked Questions
 **Q:** Will this plugin break my existing website images?  
 **A:** No, this plugin only affects new image uploads going forward. Any images you've already uploaded and that WordPress has resized will remain unchanged. Only newly uploaded images will avoid resizing.
