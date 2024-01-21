@@ -20,7 +20,7 @@ Simply install and activate this plugin, and your image uploads will be free of 
 Install and activate the plugin.
 
 ## Plugin Development
-This WordPress plugin has been developed by[WebDeskArt](https://www.webdeskart.com)
+This WordPress plugin has been developed by [WebDeskArt](https://www.webdeskart.com).
 
 ## Frequently Asked Questions
 **Q:** Will this plugin break my existing website images?  
