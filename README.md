@@ -1,0 +1,1 @@
+# disable-auto-image-resizing
