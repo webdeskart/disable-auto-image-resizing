@@ -1,4 +1,4 @@
-# Disable Auto Image Resizing
+# Disable Auto Image Resizing in WordPress
 
 Prevents automatic image resizing after uploading in WordPress.
 
