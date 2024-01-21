@@ -1,14 +1,5 @@
 # Disable Auto Image Resizing
 
-**Contributors:** webdeskart  
-**Tags:** image, media, upload  
-**Requires at least:** 6.0  
-**Tested up to:** 6.4.2  
-**Requires PHP:** 5.2  
-**Stable tag:** 1.0.0  
-**License:** GNU General Public License v2  
-**License URI:** [https://www.webdeskart.com](https://www.webdeskart.com)
-
 Prevents automatic image resizing after uploading in WordPress.
 
 ## Description
